@@ -1,1 +1,17 @@
 /jerry-dbeaver-enhance-upsite/.project
+/jerry-dbeaver-enhance-upsite/content.jar
+/jerry-dbeaver-enhance-upsite/artifacts.jar
+/jerry-dbeaver-enhance-upsite/logs.zip
+/jerry-dbeaver-enhance-upsite/.settings/
+/jerry-dbeaver-enhancer/build.properties
+/jerry-dbeaver-enhancer/.project
+/jerry-dbeaver-enhancer/.classpath
+/jerry-dbeaver-enhancer/.settings/
+/jerry.dbeaver.enhance/.project
+/jerry.dbeaver.enhance/build.properties
+/jerry.dbeaver.enhance/.settings/
+/.idea/
+/.metadata/
+/jerry-dbeaver-enhance-upsite/features/
+/jerry-dbeaver-enhance-upsite/plugins/
+/jerry-dbeaver-enhancer/bin/

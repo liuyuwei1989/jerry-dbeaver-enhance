@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="jerry.dbeaver.enhance">
+      <category name="jerry.dbeaver.ehance.catagory"/>
+   </feature>
+   <category-def name="jerry.dbeaver.ehance.catagory" label="jerry dbeaver ehance catagory"/>
+</site>

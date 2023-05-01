@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/jerry.dbeaver.enhance_1.0.0.202305011237.jar" id="jerry.dbeaver.enhance" version="1.0.0.202305011237">
+      <category name="jerry-dbeaver-enhace-site"/>
+   </feature>
+   <category-def name="jerry-dbeaver-enhace-site" label="jerry-dbeaver-enhace-site"/>
+</site>
